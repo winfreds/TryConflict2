@@ -2,12 +2,3 @@ part1
 Zick found an apple :)
 
 part2
-
-Zick found a girl :)))
-
-test
-test3
-test3.5
-
-Zick found an orange :(
-
