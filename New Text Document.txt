@@ -2,8 +2,9 @@ part1
 Zick found an apple :)
 
 part2
-<<<<<<< HEAD
+
 Zick found an orange :(
-=======
+
+part3
 Zick found a girl :)))
->>>>>>> origin/jacky
+
