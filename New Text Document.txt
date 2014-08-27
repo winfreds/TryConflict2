@@ -1,2 +1,5 @@
 part1
 Zick found an apple :)
+
+part2
+Zick found a girl :)))
